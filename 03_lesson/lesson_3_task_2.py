@@ -10,5 +10,7 @@ catalog = [
 
 for smartphone in catalog:
     print(
-        f"Марка: {smartphone.brand}, Модель: {smartphone.model}, Телефон: {smartphone.phone}"
+        f"Марка: {smartphone.brand}, "
+        f"Модель: {smartphone.model}, "
+        f"Телефон: {smartphone.phone}"
     )
