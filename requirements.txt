@@ -1,0 +1,4 @@
+pytest
+selenium
+flake8
+black
